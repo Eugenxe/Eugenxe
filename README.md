@@ -10,7 +10,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=29B6FF&center=true&vCenter=true&width=600&lines=Security+researcher;Developer+and+co-founder;CTF+player+on+HackTheBox+and+Hackviser;Building+secure+web+and+mobile+apps" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=29B6FF&center=true&vCenter=true&width=600&lines=Security+researcher;Developer+and+co-founder;CTF+player%3A+HackTheBox%2C+Hackviser%2C+picoCTF;Building+secure+web+and+mobile+apps" alt="Typing animation" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecu
 
 ## `$ cat currently.txt`
 
-- 🔍 **Security research** and CTFs on **HackTheBox** and **Hackviser**
+- 🔍 **Security research** and CTFs on **HackTheBox**, **Hackviser**, **picoCTF** and **PerfectrootCTF**
 - 🏢 Full-time at **[Eligen Technologies](https://www.eligencybersecurity.org)**, the Nairobi tech company I co-founded. Three teams (Cybersecurity, Networking, Development) that check each other's work: *Securing. Connecting. Building.*
 
 ## `$ ls ~/stack`
