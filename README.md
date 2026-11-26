@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=200&section=header&text=Eugene%20Mageto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20Developer&descSize=18&descAlignY=58" alt="Eugene Mageto banner" />
+</p>
 
-<!--
-**Eugenxe/Eugenxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=600&lines=Security+researcher+by+curiosity;Developer+by+trade;Breaking+boxes+on+HackTheBox;Building+web+and+mobile+apps" alt="Typing animation" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:magetoeugene567@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0d1117?style=for-the-badge&logo=gmail&logoColor=00c853" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00c853" alt="Location" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `$ whoami`
+
+```bash
+name      : Eugene Mageto
+location  : Nairobi, Kenya
+education : BSc Mathematics & Computer Science (Murang'a University of Technology)
+roles     : Security Researcher, Developer
+focus     : SOC / blue team, penetration testing, web and mobile development
+company   : Co-founder, Eligen Technologies Limited
+languages : English, Swahili
+```
+
+I'm a security researcher and developer. My maths background taught me to break problems down, and I use that on both sides of the work: building apps that do something useful, and poking at systems to understand how they fail.
+
+## `$ cat currently.txt`
+
+- 🔍 Doing **security research** and practising on **HackTheBox** machines, writing up what I learn
+- 🏢 Growing **[Eligen Technologies](https://github.com/Eugenxe/eligen-technologies)**, a Kenyan tech company with Cybersecurity, Networking and Development divisions
+- 🎨 Freelance web development under **Euki Creations**
+- 📚 Studying ICS security and cloud (AWS)
+
+## `$ ls ~/stack`
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,dart,bash&theme=dark" alt="Languages" />
+</p>
+
+**Frameworks and libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,laravel,react,nodejs,mui,flutter&theme=dark" alt="Frameworks and libraries" />
+</p>
+
+**Systems and tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,github,docker&theme=dark" alt="Systems and tools" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" />
+</p>
+
+## `$ ls ~/projects`
+
+| Project | What it is |
+| --- | --- |
+| [python-port-scanner](https://github.com/Eugenxe/python-port-scanner) | A TCP port scanner written in Python, built to understand how scanning works under the hood |
+| [eligen-technologies](https://github.com/Eugenxe/eligen-technologies) | Website for Eligen Technologies Limited |
+| HTB writeups | Notes and walkthroughs from retired HackTheBox machines (repo coming soon) |
+
+## `$ git log --stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eugenxe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c853&icon_color=00c853" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenxe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c853" alt="Top languages" />
+</p>
+
+## `$ ./contact.sh`
+
+- 📧 Email: [magetoeugene567@gmail.com](mailto:magetoeugene567@gmail.com)
+- 🤝 Open to SOC analyst roles, developer work, internships and security collaborations
+
+<p align="center">
+  <i>"The only truly secure system is one that is powered off. I'm still learning how to secure the rest."</i>
+</p>
