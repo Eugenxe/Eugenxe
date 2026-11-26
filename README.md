@@ -60,13 +60,6 @@ I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecu
   <a href="https://hackviser.com"><img src="https://raw.githubusercontent.com/Eugenxe/Eugenxe/main/hackviser.png" height="34" alt="Hackviser" /></a>
 </p>
 
-## `$ ls ~/projects`
-
-| Project | What it is |
-| --- | --- |
-| [python-port-scanner](https://github.com/Eugenxe/python-port-scanner) | A TCP port scanner written in Python |
-| [eligen-technologies](https://github.com/Eugenxe/eligen-technologies) | Code for [eligencybersecurity.org](https://www.eligencybersecurity.org), the Eligen Technologies Limited website |
-
 ## `$ ./services.sh`
 
 Through **[Eligen Technologies](https://www.eligencybersecurity.org)** we take on:
