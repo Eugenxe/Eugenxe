@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="logo.png" width="130" alt="rm_rf_irl logo" />
+  <img src="https://raw.githubusercontent.com/Eugenxe/Eugenxe/main/logo.png" width="130" alt="rm_rf_irl logo" />
 </p>
 
 <!-- Typing animation -->
@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:magetoeugene567@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0d1117?style=for-the-badge&logo=gmail&logoColor=29B6FF" alt="Email" /></a>
-  <a href="https://www.eligencybersecurity.org"><img src="https://img.shields.io/badge/Eligen%20Technologies-Visit%20site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=29B6FF" alt="Eligen Technologies" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0d1117?style=for-the-badge&logo=googlemaps&logoColor=29B6FF" alt="Location" />
+  <a href="mailto:info@eligencybersecurity.org"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0b4f75?style=for-the-badge&logo=gmail&logoColor=29B6FF&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://www.eligencybersecurity.org"><img src="https://img.shields.io/badge/Eligen%20Technologies-Visit%20site-0b4f75?style=for-the-badge&logo=googlechrome&logoColor=29B6FF&labelColor=0d1117" alt="Eligen Technologies" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0b4f75?style=for-the-badge&labelColor=0d1117" alt="Location" />
 </p>
 
 ---
@@ -32,7 +32,6 @@ education : BSc Mathematics & Computer Science (Murang'a University of Technolog
 roles     : Security Researcher, Developer
 focus     : SOC / blue team, penetration testing, web and mobile development
 company   : Co-founder (full-time), Eligen Technologies Limited
-languages : English, Swahili
 ```
 
 I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecurity space. My maths background taught me to break problems down, and I use that on both sides of the work: building apps that do something useful, and poking at systems to understand how they fail.
@@ -45,12 +44,6 @@ I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecu
 
 ## `$ ls ~/stack`
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,dart,bash&theme=dark" alt="Languages" />
-</p>
-
 **Frameworks and libraries**
 
 <p>
@@ -62,8 +55,10 @@ I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecu
 <p>
   <img src="https://skillicons.dev/icons?i=linux,arch,git,github,docker&theme=dark" alt="Systems and tools" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Caido-0b4f75?style=for-the-badge&labelColor=0d1117" alt="Caido" />
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" />
-  <a href="https://hackviser.com"><img src="https://img.shields.io/badge/Hackviser-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=29B6FF" alt="Hackviser" /></a>
+  <a href="https://hackviser.com"><img src="https://img.shields.io/badge/Hackviser-0d1117?style=for-the-badge&logo=gnubash&logoColor=29B6FF" alt="Hackviser" /></a>
 </p>
 
 ## `$ ls ~/projects`
@@ -74,19 +69,21 @@ I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecu
 | [eligen-technologies](https://github.com/Eugenxe/eligen-technologies) | Code for [eligencybersecurity.org](https://www.eligencybersecurity.org), the Eligen Technologies Limited website |
 | HTB and Hackviser writeups | Notes and walkthroughs from retired HackTheBox machines and Hackviser labs (repo coming soon) |
 
-## `$ git log --stats`
+## `$ ./services.sh`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eugenxe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=29B6FF&icon_color=29B6FF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenxe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=29B6FF" alt="Top languages" />
-</p>
+Through **[Eligen Technologies](https://www.eligencybersecurity.org)** we take on:
+
+- 🛡️ **Cybersecurity:** vulnerability assessment and penetration testing, security awareness training, governance and compliance support
+- 🌐 **Networking:** network design and deployment, security hardening, enterprise WiFi
+- 💻 **Development:** web platforms, custom business systems, mobile apps, point of sale systems, SEO
+
+Every project is built by one team and tested by another, and ends with a report you can hand to your board or auditor.
 
 ## `$ ./contact.sh`
 
 - 🏢 Company: [eligencybersecurity.org](https://www.eligencybersecurity.org)
-- 📧 Email: [magetoeugene567@gmail.com](mailto:magetoeugene567@gmail.com)
-- 🤝 Open to SOC analyst roles, developer work, internships and security collaborations
+- 📧 Email: [info@eligencybersecurity.org](mailto:info@eligencybersecurity.org)
 
 <p align="center">
-  <i>"The only truly secure system is one that is powered off. I'm still learning how to secure the rest."</i>
+  <i>Securing. Connecting. Building.</i>
 </p>
