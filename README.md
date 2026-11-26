@@ -10,7 +10,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=29B6FF&center=true&vCenter=true&width=600&lines=Security+researcher+by+curiosity;Developer+by+trade;Breaking+boxes+on+HackTheBox+and+Hackviser;Building+web+and+mobile+apps" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=29B6FF&center=true&vCenter=true&width=600&lines=Security+researcher;Developer+and+co-founder;CTF+player+on+HackTheBox+and+Hackviser;Building+secure+web+and+mobile+apps" alt="Typing animation" />
   </a>
 </p>
 
@@ -34,13 +34,12 @@ focus     : SOC / blue team, penetration testing, web and mobile development
 company   : Co-founder (full-time), Eligen Technologies Limited
 ```
 
-I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecurity space. My maths background taught me to break problems down, and I use that on both sides of the work: building apps that do something useful, and poking at systems to understand how they fail.
+I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecurity space. I build software and I break it. A maths background gives me a methodical approach to both: engineering systems that hold up, and testing others to find where they don't.
 
 ## `$ cat currently.txt`
 
-- 🔍 Doing **security research** and practising on **HackTheBox** and **Hackviser**, writing up what I learn
+- 🔍 **Security research** and CTFs on **HackTheBox** and **Hackviser**
 - 🏢 Full-time at **[Eligen Technologies](https://www.eligencybersecurity.org)**, the Nairobi tech company I co-founded. Three teams (Cybersecurity, Networking, Development) that check each other's work: *Securing. Connecting. Building.*
-- 📚 Studying ICS security and cloud (AWS)
 
 ## `$ ls ~/stack`
 
@@ -58,16 +57,15 @@ I'm a security researcher and developer, known as **rm_rf_irl** in the cybersecu
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Caido-0b4f75?style=for-the-badge&labelColor=0d1117" alt="Caido" />
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" />
-  <a href="https://hackviser.com"><img src="https://img.shields.io/badge/Hackviser-0d1117?style=for-the-badge&logo=gnubash&logoColor=29B6FF" alt="Hackviser" /></a>
+  <a href="https://hackviser.com"><img src="https://raw.githubusercontent.com/Eugenxe/Eugenxe/main/hackviser.png" height="34" alt="Hackviser" /></a>
 </p>
 
 ## `$ ls ~/projects`
 
 | Project | What it is |
 | --- | --- |
-| [python-port-scanner](https://github.com/Eugenxe/python-port-scanner) | A TCP port scanner written in Python, built to understand how scanning works under the hood |
+| [python-port-scanner](https://github.com/Eugenxe/python-port-scanner) | A TCP port scanner written in Python |
 | [eligen-technologies](https://github.com/Eugenxe/eligen-technologies) | Code for [eligencybersecurity.org](https://www.eligencybersecurity.org), the Eligen Technologies Limited website |
-| HTB and Hackviser writeups | Notes and walkthroughs from retired HackTheBox machines and Hackviser labs (repo coming soon) |
 
 ## `$ ./services.sh`
 
